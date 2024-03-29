@@ -73,7 +73,7 @@
     "@shopify/network": "^3.2.1",
     "compare-versions": "^5.0.3",
     "isbot": "^3.6.10",
-    "jose": "^4.9.1",
+    "jose": "^4.15.5",
     "node-fetch": "^2.6.1",
     "tslib": "^2.0.3",
     "uuid": "^9.0.0"
@@ -89,7 +89,7 @@
     "@types/node-fetch": "^2.5.7",
     "@types/supertest": "^2.0.10",
     "@types/uuid": "^9.0.0",
-    "express": "^4.17.13",
+    "express": "^4.19.2",
     "jest-environment-miniflare": "^2.12.1",
     "miniflare": "^2.6.0",
     "rollup": "^2.79.1",
